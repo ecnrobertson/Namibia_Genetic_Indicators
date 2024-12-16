@@ -1,0 +1,17 @@
+---
+title: "GI_Walkthrough"
+author: "Erica Robertson"
+date: "2024-12-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# INTRODUCTION
+
+This is a walkthrough of how to go through the proccess of collecting information on species and converting that into Genetic Indicators. The two we're focusing on are the proportion of populations with an Ne < 500 (Ne500 Indicator) and the proportion of populations mantained (PM Indicator). This workflow and code is based entirely on this project: https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/ which is a result of this paper which I am a coauthor on:
+Mastretta-Yanes, A., da Silva, J.M., Grueber, C.E., Castillo-Reina, L., Köppä, V., Forester, B.R. et al. (2024) Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Framework. Ecology Letters, 27, e14461. Available from: https://doi.org/10.1111/ele.14461
+
+I have nice code developed by Brenna Forester which is will be simplifying and adapting for this project.
