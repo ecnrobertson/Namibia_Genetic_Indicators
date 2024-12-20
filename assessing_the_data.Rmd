@@ -1,0 +1,165 @@
+---
+title: "Assessing_the_data"
+author: "Erica Robertson"
+date: "2024-12-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "~/Desktop/Namibia_Genetic_Indicators/Namibia_Genetic_Indicators/")
+```
+
+
+```{r, label="conservancy_shape_file"}
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggplot2)
+library(plotly)
+
+nps <- st_read("Protected areas 2024/Protected_Areas_Atlas.shp")
+cons <- st_read("Communal Conservancies Registered 2024/Communal_Conservancies_Atlas.shp")
+
+plot(nps)
+plot(cons)
+
+namibia <- ne_countries(scale = "medium", country = "Namibia", returnclass = "sf")
+
+p <- ggplot() +
+  # Plot Namibia's boundary
+  geom_sf(data = namibia, fill = "lightgray", color = "black") +
+  # Add conservancies
+  geom_sf(data = nps, aes(text = paste("National Park:", NAME)), fill = "darkblue", alpha = 0.6) +
+  geom_sf(data=cons, aes(text=paste("Conservancy:",NAME)),fill="forestgreen", alpha=0.6)+
+  # Add labels for conservancy names
+  #geom_sf_text(data = conservancies, aes(label = NAME), size = 3, color = "darkred") +
+  # Add map styling
+  theme_minimal() +
+  labs(title = "National Parks in Namibia",
+       caption = "Data Source: rnaturalearth and your shapefile")+
+  theme(legend.position = "none")
+
+
+ggplotly(p, tooltip = "text")
+
+# Display the map
+interactive_map
+```
+
+```{r, label="reading_in_data"}
+library(tidyverse)
+library(dplyr)
+
+# list all the files
+nw_files <- list.files("game_counts/NW_Game_Count", pattern = "\\.csv$", full.names = TRUE)
+
+# the files aren't super clean and have extra rows and columns that are filled with NA's, so this should get rid of them and clean it up
+clean_csv <- function(file) {
+  data <- read.csv(file, stringsAsFactors = FALSE)
+  
+  data <- data %>%
+    filter(rowSums(!is.na(.)) > 0) %>%   # keep rows with at least one non-NA value
+    select(where(~ any(!is.na(.))))     # keep columns with at least one non-NA value
+  
+  return(data)
+}
+
+# read in the new, clean files
+nw_list <- lapply(nw_files, clean_csv)
+
+# going to make separate objects for each file, so I can fiddle with them separately. This will rename each object based on the file name, eg "NW_Conservancy_Estimates"
+file_names <- basename(nw_files)                   
+file_names <- sub("\\.csv$", "", file_names)       
+for (i in seq_along(nw_list)) {
+  assign(file_names[i], nw_list[[i]])
+}
+
+# list the objects to make sure they were created and double check the naming scheme
+ls(pattern = "^NW_")
+```
+
+Okay so now we have all the data read in and a reference for what conservatories were being measured. NW is going to be what I work with here as it, very nicely, has a per conservatory estimate for all the species. This might be the best proxy for population we can get at the moment. So let's try and get a sense of what we're working with...
+
+```{r}
+# years of count data
+years <- unique(NW_Conservancy_Estimates$Year)
+min(years)
+max(years)
+```
+
+So the count data goes from 2001 to 2024. We'll assume that 2001 is our baseline for the PM indicator, proportion of populations lost. So between 2001 and 2024, how many populations were lost?
+
+First let's see how many species we have data for.
+
+```{r}
+species <- unique(NW_Trend_Conservancies$Species)
+length(species)
+colnames(NW_Conservancy_Estimates)
+```
+
+So we have count data for 37 species, but actual conservatory estimates for only 7 species. Gemsbok, Giraffe, Hartmann Zebra, Kudu, Ostrich, Springbok, Steenbok.
+
+```{r}
+#messy and redundant... see next code chunk...
+
+count_done_2001 <- NW_Counted %>% select(Name, X2001) %>% rename(NAME=Name)
+count_done_2024 <- NW_Counted %>% select(Name, X2024) %>% rename(NAME=Name)
+
+count_2001 <- NW_Conservancy_Estimates %>% filter(Year==2001)
+count_2024 <- NW_Conservancy_Estimates %>% filter(Year==2024)
+
+zebra_count_2001 <- count_2001[,c(2,5)] %>% rename(NAME=Cons, Zebra2001=Hartmann.s.Zebra)
+zebra_count_2001 <- full_join(zebra_count_2001, count_done_2001, by="NAME")
+zebra_count_2024 <- count_2024[,c(2,5)] %>% rename(NAME=Cons, Zebra2024=Hartmann.s.Zebra)
+zebra_count_2024 <- full_join(zebra_count_2024, count_done_2024, by="NAME")
+
+zebra_count <- full_join(zebra_count_2001, zebra_count_2024, by="NAME")
+```
+
+```{r}
+# this function takes the year, the estimate data, the count completed data, and the species name and gets a final dataframe with the name of the conservancy, then the species count and year for whatever two years you want to do. This only works for the NW set where there are direct estimates.
+
+prepare_species_count <- function(year, cons_data, counted_data, species) {
+  count <- counted_data %>% select(Name, paste0("X",year)) %>% rename(NAME=Name)
+  species_col <- sym(species)
+  cons_data %>%
+    filter(Year == year) %>%
+    select(Cons, !!species_col) %>%
+    rename(NAME = Cons, Species = !!species_col) %>%
+    full_join(
+      count %>% select(NAME, paste0("X", year)),
+      by = "NAME"
+    )
+  
+}
+
+species_count_2001 <- prepare_species_count(2001, NW_Conservancy_Estimates, NW_Counted, "Giraffe")
+species_count_2024 <- prepare_species_count(2024, NW_Conservancy_Estimates, NW_Counted, "Giraffe")
+
+species_count <- full_join(species_count_2001, species_count_2024, by = "NAME")
+```
+
+```{r}
+cons.species <- full_join(cons, species_count %>% select(NAME,Hartmann.s.Zebra), by = "NAME")
+
+plot(cons.species)
+
+p.sp <- ggplot() +
+  # Plot Namibia's boundary
+  geom_sf(data = namibia, fill = "lightgray", color = "black") +
+  # Add conservancies
+  geom_sf(data = nps, aes(text = paste("National Park:", NAME)), fill = "darkblue", alpha = 0.6) +
+  geom_sf(data=cons.species, aes(Name=paste("Conservancy:",NAME), Zebra_Pop=Hartmann.s.Zebra),fill="forestgreen", alpha=0.6)+
+  # Add labels for conservancy names
+  #geom_sf_text(data = conservancies, aes(label = NAME), size = 3, color = "darkred") +
+  # Add map styling
+  theme_minimal() +
+  labs(title = "National Parks in Namibia",
+       caption = "Data Source: rnaturalearth and your shapefile")+
+  theme(legend.position = "none")
+
+
+ggplotly(p.sp, tooltip = "all")
+```
+

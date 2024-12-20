@@ -1,0 +1,954 @@
+﻿Group or Cons,Year,SpeciesName,Animals seen,Groups seen,Population_estimate,CL_low,CL_high,Area km2,Sequence
+"Balyerwa, Wuparo, Dzoti",2010,Duiker,9,8,157,91,270,660,1
+"Balyerwa, Wuparo, Dzoti",2010,Elephant,26,2,377,131,1084,660,1
+"Balyerwa, Wuparo, Dzoti",2010,Kudu,2,1,65,21,198,660,1
+"Balyerwa, Wuparo, Dzoti",2011,Duiker,6,6,172,100,297,660,1
+"Balyerwa, Wuparo, Dzoti",2011,Elephant,35,5,167,49,564,660,1
+"Balyerwa, Wuparo, Dzoti",2011,Kudu,27,6,85,36,201,660,1
+"Balyerwa, Wuparo, Dzoti",2011,Warthog,9,3,61,26,143,660,1
+"Balyerwa, Wuparo, Dzoti",2012,Duiker,4,4,151,87,260,660,1
+"Balyerwa, Wuparo, Dzoti",2012,Elephant,74,11,210,85,521,660,1
+"Balyerwa, Wuparo, Dzoti",2012,Kudu,24,3,113,56,230,660,1
+"Balyerwa, Wuparo, Dzoti",2012,Warthog,6,3,38,18,81,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Burchell's Zebra,43,3,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Duiker,14,14,155,76,317,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Elephant,128,14,372,169,820,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Impala,25,2,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Kudu,23,3,118,58,240,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Roan,25,7,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2013,Warthog,15,8,86,40,188,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Burchell's Zebra,18,3,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Duiker,13,11,179,109,293,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Elephant,42,4,417,189,919,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Impala,12,3,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Kudu,5,2,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Roan,17,3,50,22,112,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Sable,18,1,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Steenbok,2,2,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2014,Warthog,12,6,79,40,158,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Burchell's Zebra,69,6,,,,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Duiker,8,8,172,108,272,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Elephant,24,3,320,133,769,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Impala,58,3,,,,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Kudu,19,5,,,,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Roan,9,5,62,30,126,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Sable,2,2,,,,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Steenbok,1,1,,,,660,1
+"Balyerwa, Wuparo, Dzoti",2015,Warthog,3,2,99,46,212,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Burchell's Zebra,50,5,319,130,780,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Duiker,14,12,212,120,370,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Elephant,132,4,291,90,940,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Kudu,9,3,103,30,330,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Roan,15,5,50,30,130,660,1
+"Balyerwa, Wuparo, Dzoti",2016,Warthog,3,2,52,20,160,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Burchell's Zebra,94,8,260,129,523,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Duiker,8,7,177,100,315,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Elephant,21,1,143,42,483,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Kudu,17,4,95,33,277,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Roan,11,2,43,16,115,660,1
+"Balyerwa, Wuparo, Dzoti",2017,Warthog,8,2,44,10,480,660,1
+"Balyerwa, Wuparo, Dzoti",2018,Burchell's Zebra,39,3,193,63,587,660,1
+"Balyerwa, Wuparo, Dzoti",2018,Duiker,5,5,88,38,204,660,1
+"Balyerwa, Wuparo, Dzoti",2018,Kudu,12,5,101,37,278,660,1
+"Balyerwa, Wuparo, Dzoti",2018,Roan,14,2,47,7,313,660,1
+"Balyerwa, Wuparo, Dzoti",2018,Warthog,2,1,16,3,90,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Buffalo,17,2,17,,,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Burchell's Zebra,14,1,14,,,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Duiker,17,12,307,162,580,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Elephant,132,11,446,224,889,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Impala,197,6,858,194,3805,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Kudu,5,2,57,15,207,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Roan,23,4,43,8,233,660,1
+"Balyerwa, Wuparo, Dzoti",2019,Wildebeest,79,4,79,,,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Buffalo,532,4,0,0,0,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Duiker,18,16,275,153,493,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Elephant,43,3,107,28,410,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Impala,164,14,902,272,2998,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Kudu,50,8,197,92,420,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Roan,11,6,38,11,130,660,1
+"Balyerwa, Wuparo, Dzoti",2020,Warthog,34,8,189,65,551,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Duiker,17,16,224,138,362,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Elephant,23,3,106,35,320,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Impala,118,11,793,283,2224,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Kudu,6,3,77,26,226,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Roan,9,3,38,13,111,660,1
+"Balyerwa, Wuparo, Dzoti",2021,Warthog,9,4,93,35,245,660,1
+"Balyerwa, Wuparo, Dzoti",2022,Duiker,9,8,127,52,311,660,1
+"Balyerwa, Wuparo, Dzoti",2022,Elephant,157,4,201,63,640,660,1
+"Balyerwa, Wuparo, Dzoti",2022,Impala,123,4,326,98,1088,660,1
+"Balyerwa, Wuparo, Dzoti",2022,Kudu,12,1,31,6,176,660,1
+"Balyerwa, Wuparo, Dzoti",2022,Roan,3,1,14,3,76,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Duiker,24,21,384,223,671,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Elephant,68,6,334,142,785,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Impala,410,23,2210,1035,4722,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Kudu,24,7,203,91,454,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Roan,35,5,83,30,234,660,1
+"Balyerwa, Wuparo, Dzoti",2023,Warthog,82,11,477,198,1147,660,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Duiker,19,18,807,545,1193,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Impala,5,1,147,48,453,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Kudu,5,2,531,254,1106,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Roan,44,6,132,33,531,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Warthog,22,6,420,159,1109,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2010,Wildebeest,35,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2011,Duiker,31,29,1583,1129,2220,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2011,Impala,15,2,119,44,325,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2011,Kudu,19,4,605,242,1515,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2011,Roan,66,3,464,170,1268,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2011,Warthog,15,4,943,408,2179,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2012,Duiker,18,17,1165,813,1671,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2012,Kudu,26,7,237,117,483,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2012,Roan,4,2,323,120,871,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2012,Warthog,8,5,445,145,1368,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Burchell's Zebra,15,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Duiker,33,33,1303,955,1777,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Elephant,30,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Giraffe,4,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Impala,58,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Kudu,12,5,168,88,322,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Reedbuck,3,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Roan,24,5,287,95,869,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Sable,3,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Steenbok,3,3,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2013,Warthog,9,5,165,75,365,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Burchell's Zebra,25,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Duiker,25,24,1163,826,1639,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Elephant,40,3,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Giraffe,7,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Impala,4,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Kudu,15,3,131,56,308,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Lechwe,8,1,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Roan,12,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Warthog,3,2,73,23,232,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2014,Wildebeest,7,2,0,0,0,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Burchell's Zebra,34,6,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Duiker,19,19,860,600,1030,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Elephant,42,4,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Giraffe,3,2,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Impala,43,3,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Kudu,31,5,92,60,275,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Roan,21,5,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Steenbok,2,2,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2015,Wildebeest,4,2,,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2016,Duiker,31,24,818,605,1110,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2016,Elephant,28,2,195,50,750,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2016,Kudu,24,6,222,70,670,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2017,Duiker,22,20,694,499,966,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2017,Kudu,13,6,272,88,846,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2018,Duiker,11,10,351,146,841,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2018,Kudu,8,1,125,23,685,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2018,Roan,16,3,179,53,609,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2018,Warthog,15,2,156,36,671,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Buffalo,33,1,33,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Burchell's Zebra,33,5,33,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Duiker,30,30,835,494,1414,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Elephant,67,5,467,137,1588,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Kudu,29,11,276,114,667,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Lechwe,280,6,280,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Reedbuck,14,4,14,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Steenbok,5,5,264,99,701,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2019,Wildebeest,10,1,10,,,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2020,Duiker,29,29,899,569,1421,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2020,Kudu,21,5,195,56,677,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2020,Roan,22,6,191,70,522,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2020,Warthog,1,1,50,9,289,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2021,Duiker,24,23,794,462,1363,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2021,Kudu,11,2,154,42,569,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2021,Reedbuck,2,1,74,14,395,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2021,Roan,15,4,145,55,382,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2021,Warthog,9,4,142,46,438,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2022,Duiker,16,15,660,397,1096,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2022,Elephant,10,1,84,15,481,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2022,Kudu,6,2,122,34,442,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2022,Roan,18,4,191,68,538,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2022,Warthog,5,1,57,10,312,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Duiker,20,18,650,395,1067,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Elephant,92,8,481,207,1117,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Giraffe,23,7,327,132,809,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Impala,52,5,1067,447,2544,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Kudu,42,5,496,131,1884,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Roan,36,5,271,96,765,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Steenbok,2,2,55,10,292,1029,1
+"Sobbe, Mayuni, Mashi, Kwandu",2023,Warthog,4,1,54,10,292,1029,1
+Bamunu,2017,Burchell's Zebra,1037,25,1040,,,556,2
+Bamunu,2018,Burchell's Zebra,117,2,117,,,556,2
+Bamunu,2018,Warthog,2,1,80,13,497,556,2
+Bamunu,2019,Buffalo,84,2,84,,,556,2
+Bamunu,2019,Burchell's Zebra,1088,25,1088,,,556,2
+Bamunu,2019,Duiker,1,1,119,19,725,556,2
+Bamunu,2019,Elephant,94,5,94,,,556,2
+Bamunu,2019,Wildebeest,32,2,32,,,556,2
+Bamunu,2020,Duiker,2,2,276,71,1080,556,2
+Bamunu,2022,Buffalo,,,0,0,0,556,2
+Bamunu,2022,Duiker,,,0,0,0,556,2
+Bamunu,2022,Warthog,3,1,79,12,510,556,2
+Bamunu,2023,Buffalo,,,0,0,0,556,2
+Bamunu,2023,Warthog,1,1,0,0,0,556,2
+Bwabwata East,2010,Buffalo,502,11,3105,972,9925,1345,2
+Bwabwata East,2010,Burchell's Zebra,81,12,1480,952,2300,1345,2
+Bwabwata East,2010,Duiker,72,71,1042,815,1331,1345,2
+Bwabwata East,2010,Elephant,1308,89,4583,3093,6791,1345,2
+Bwabwata East,2010,Giraffe,25,13,118,64,218,1345,2
+Bwabwata East,2010,Impala,595,45,712,457,1109,1345,2
+Bwabwata East,2010,Kudu,206,43,997,680,1463,1345,2
+Bwabwata East,2010,Lechwe,207,24,322,157,660,1345,2
+Bwabwata East,2010,Reedbuck,17,5,70,25,198,1345,2
+Bwabwata East,2010,Roan,16,6,60,18,200,1345,2
+Bwabwata East,2010,Sable,59,14,265,139,505,1345,2
+Bwabwata East,2010,Steenbok,25,19,320,191,535,1345,2
+Bwabwata East,2010,Tsessebe,25,10,142,69,291,1345,2
+Bwabwata East,2010,Warthog,52,26,233,135,401,1345,2
+Bwabwata East,2010,Wildebeest,20,5,203,66,624,1345,2
+Bwabwata East,2011,Buffalo,360,13,1214,329,4476,1345,2
+Bwabwata East,2011,Burchell's Zebra,264,21,1390,949,2037,1345,2
+Bwabwata East,2011,Duiker,120,109,1429,1172,1741,1345,2
+Bwabwata East,2011,Elephant,1051,83,5289,3987,7015,1345,2
+Bwabwata East,2011,Giraffe,79,13,205,114,369,1345,2
+Bwabwata East,2011,Impala,519,50,4254,2656,6813,1345,2
+Bwabwata East,2011,Kudu,268,54,1607,1218,2120,1345,2
+Bwabwata East,2011,Lechwe,165,17,325,155,683,1345,2
+Bwabwata East,2011,Reedbuck,28,8,97,40,239,1345,2
+Bwabwata East,2011,Roan,18,10,62,30,128,1345,2
+Bwabwata East,2011,Sable,222,23,575,269,1230,1345,2
+Bwabwata East,2011,Steenbok,30,26,313,221,443,1345,2
+Bwabwata East,2011,Tsessebe,47,6,133,66,268,1345,2
+Bwabwata East,2011,Warthog,58,29,539,380,764,1345,2
+Bwabwata East,2011,Wildebeest,35,4,161,62,419,1345,2
+Bwabwata East,2012,Buffalo,144,10,1234,462,3298,1345,2
+Bwabwata East,2012,Burchell's Zebra,319,37,938,675,1305,1345,2
+Bwabwata East,2012,Duiker,85,75,1430,1158,1765,1345,2
+Bwabwata East,2012,Elephant,1555,104,5623,4356,7257,1345,2
+Bwabwata East,2012,Giraffe,48,18,174,105,286,1345,2
+Bwabwata East,2012,Impala,454,47,3662,2144,6254,1345,2
+Bwabwata East,2012,Kudu,261,69,1996,1525,2613,1345,2
+Bwabwata East,2012,Lechwe,64,6,318,147,691,1345,2
+Bwabwata East,2012,Reedbuck,27,7,68,34,136,1345,2
+Bwabwata East,2012,Roan,48,8,146,69,309,1345,2
+Bwabwata East,2012,Sable,101,20,432,265,703,1345,2
+Bwabwata East,2012,Steenbok,21,19,297,202,436,1345,2
+Bwabwata East,2012,Tsessebe,25,5,106,59,191,1345,2
+Bwabwata East,2012,Warthog,61,24,577,419,793,1345,2
+Bwabwata East,2012,Wildebeest,41,10,80,35,182,1345,2
+Bwabwata East,2013,Buffalo,158,13,1123,545,2118,1345,2
+Bwabwata East,2013,Burchell's Zebra,329,27,1703,1249,2323,1345,2
+Bwabwata East,2013,Duiker,81,76,1399,1160,1687,1345,2
+Bwabwata East,2013,Elephant,1518,78,4812,3663,6322,1345,2
+Bwabwata East,2013,Giraffe,42,16,280,179,439,1345,2
+Bwabwata East,2013,Impala,520,58,5549,2784,11059,1345,2
+Bwabwata East,2013,Kudu,195,57,1501,1088,2070,1345,2
+Bwabwata East,2013,Lechwe,96,12,319,126,802,1345,2
+Bwabwata East,2013,Reedbuck,7,2,118,53,265,1345,2
+Bwabwata East,2013,Roan,80,14,244,133,449,1345,2
+Bwabwata East,2013,Sable,161,18,828,492,1392,1345,2
+Bwabwata East,2013,Steenbok,27,26,295,192,453,1345,2
+Bwabwata East,2013,Tsessebe,41,10,287,102,806,1345,2
+Bwabwata East,2013,Warthog,67,30,604,442,827,1345,2
+Bwabwata East,2013,Wildebeest,84,6,210,94,466,1345,2
+Bwabwata East,2014,Buffalo,230,8,1052,531,2082,1345,2
+Bwabwata East,2014,Burchell's Zebra,277,33,1274,917,1772,1345,2
+Bwabwata East,2014,Duiker,62,57,1028,840,1259,1345,2
+Bwabwata East,2014,Elephant,2259,101,5736,4379,7514,1345,2
+Bwabwata East,2014,Giraffe,41,11,26,173,412,1345,2
+Bwabwata East,2014,Impala,637,58,5656,2870,11145,1345,2
+Bwabwata East,2014,Kudu,207,58,1778,1257,2517,1345,2
+Bwabwata East,2014,Lechwe,76,11,319,110,929,1345,2
+Bwabwata East,2014,Reedbuck,14,5,109,42,282,1345,2
+Bwabwata East,2014,Roan,21,11,270,155,470,1345,2
+Bwabwata East,2014,Sable,140,21,796,474,1337,1345,2
+Bwabwata East,2014,Steenbok,15,13,416,266,650,1345,2
+Bwabwata East,2014,Tsessebe,55,12,133,67,265,1345,2
+Bwabwata East,2014,Warthog,69,31,771,548,1101,1345,2
+Bwabwata East,2014,Wildebeest,37,6,298,137,650,1345,2
+Bwabwata East,2015,Buffalo,490,20,1870,850,4150,1345,2
+Bwabwata East,2015,Burchell's Zebra,311,26,1880,1320,2660,1345,2
+Bwabwata East,2015,Duiker,76,67,1240,1010,1530,1345,2
+Bwabwata East,2015,Elephant,1184,56,5360,3980,7220,1345,2
+Bwabwata East,2015,Giraffe,52,12,170,100,285,1345,2
+Bwabwata East,2015,Impala,548,45,6640,3430,12840,1345,2
+Bwabwata East,2015,Kudu,129,30,1580,1050,2370,1345,2
+Bwabwata East,2015,Lechwe,120,16,370,140,975,1345,2
+Bwabwata East,2015,Reedbuck,13,5,65,25,175,1345,2
+Bwabwata East,2015,Roan,18,7,190,105,355,1345,2
+Bwabwata East,2015,Sable,170,21,980,590,1650,1345,2
+Bwabwata East,2015,Steenbok,12,12,290,190,470,1345,2
+Bwabwata East,2015,Tsessebe,57,13,270,130,560,1345,2
+Bwabwata East,2015,Warthog,64,25,780,550,1110,1345,2
+Bwabwata East,2015,Wildebeest,17,3,275,120,650,1345,2
+Bwabwata East,2016,Buffalo,256,11,1941,920,4095,1345,2
+Bwabwata East,2016,Burchell's Zebra,348,30,1524,1090,2130,1345,2
+Bwabwata East,2016,Duiker,71,59,1086,860,1365,1345,2
+Bwabwata East,2016,Elephant,584,33,6374,3900,10430,1345,2
+Bwabwata East,2016,Giraffe,52,18,225,140,355,1345,2
+Bwabwata East,2016,Impala,232,20,3481,2000,6060,1345,2
+Bwabwata East,2016,Kudu,133,38,1164,870,1550,1345,2
+Bwabwata East,2016,Lechwe,23,3,181,50,700,1345,2
+Bwabwata East,2016,Roan,64,8,153,60,380,1345,2
+Bwabwata East,2016,Sable,241,29,730,500,1080,1345,2
+Bwabwata East,2016,Steenbok,26,21,409,210,790,1345,2
+Bwabwata East,2016,Tsessebe,9,5,155,90,280,1345,2
+Bwabwata East,2016,Warthog,40,19,640,460,890,1345,2
+Bwabwata East,2016,Wildebeest,16,3,81,20,355,1345,2
+Bwabwata East,2017,Buffalo,655,18,2854,1364,5975,1345,2
+Bwabwata East,2017,Burchell's Zebra,550,40,1974,1431,2724,1345,2
+Bwabwata East,2017,Duiker,50,44,1257,983,1606,1345,2
+Bwabwata East,2017,Elephant,691,35,6736,4748,9557,1345,2
+Bwabwata East,2017,Giraffe,67,15,322,220,471,1345,2
+Bwabwata East,2017,Impala,607,66,3547,2146,5860,1345,2
+Bwabwata East,2017,Kudu,143,33,1061,797,1412,1345,2
+Bwabwata East,2017,Lechwe,266,13,334,117,957,1345,2
+Bwabwata East,2017,Reedbuck,10,4,26,19,105,1345,2
+Bwabwata East,2017,Roan,14,7,142,52,389,1345,2
+Bwabwata East,2017,Sable,89,15,631,421,945,1345,2
+Bwabwata East,2017,Steenbok,17,16,394,248,628,1345,2
+Bwabwata East,2017,Tsessebe,26,7,88,47,164,1345,2
+Bwabwata East,2017,Warthog,21,9,448,301,666,1345,2
+Bwabwata East,2017,Wildebeest,20,4,86,18,1260,1345,2
+Bwabwata East,2019,Buffalo,516,15,3314,1378,7968,1345,2
+Bwabwata East,2019,Burchell's Zebra,412,43,2436,1749,3392,1345,2
+Bwabwata East,2019,Duiker,77,71,1030,825,1287,1345,2
+Bwabwata East,2019,Elephant,694,52,4719,3034,7337,1345,2
+Bwabwata East,2019,Giraffe,80,23,373,254,547,1345,2
+Bwabwata East,2019,Impala,951,111,4609,2704,7856,1345,2
+Bwabwata East,2019,Kudu,213,55,1188,906,1558,1345,2
+Bwabwata East,2019,Lechwe,385,25,376,96,1531,1345,2
+Bwabwata East,2019,Reedbuck,7,5,19,6,61,1345,2
+Bwabwata East,2019,Roan,149,16,170,74,389,1345,2
+Bwabwata East,2019,Sable,390,53,1447,947,2212,1345,2
+Bwabwata East,2019,Steenbok,24,23,349,225,542,1345,2
+Bwabwata East,2019,Tsessebe,59,17,140,68,286,1345,2
+Bwabwata East,2019,Warthog,39,19,312,207,4709,1345,2
+Bwabwata East,2019,Wildebeest,93,15,136,48,481,1345,2
+Bwabwata East,2020,Buffalo,348,16,2839,1186,6810,1345,2
+Bwabwata East,2020,Burchell's Zebra,401,27,2477,1764,3479,1345,2
+Bwabwata East,2020,Duiker,88,81,1301,1029,1646,1345,2
+Bwabwata East,2020,Elephant,399,25,3835,2313,6357,1345,2
+Bwabwata East,2020,Giraffe,83,22,468,309,708,1345,2
+Bwabwata East,2020,Impala,766,68,6282,3667,10781,1345,2
+Bwabwata East,2020,Kudu,116,27,1276,934,1741,1345,2
+Bwabwata East,2020,Lechwe,114,14,498,189,1312,1345,2
+Bwabwata East,2020,Reedbuck,1,1,18,8,41,1345,2
+Bwabwata East,2020,Roan,42,9,131,53,323,1345,2
+Bwabwata East,2020,Sable,270,41,1368,884,2119,1345,2
+Bwabwata East,2020,Steenbok,40,32,439,285,676,1345,2
+Bwabwata East,2020,Tsessebe,59,11,264,151,462,1345,2
+Bwabwata East,2020,Warthog,14,7,196,118,326,1345,2
+Bwabwata East,2020,Wildebeest,117,7,253,130,491,1345,2
+Bwabwata East,2021,Buffalo,364,20,2254,896,5670,1345,2
+Bwabwata East,2021,Burchell's Zebra,558,50,2488,1800,3439,1345,2
+Bwabwata East,2021,Duiker,82,75,1410,1146,1734,1345,2
+Bwabwata East,2021,Elephant,334,31,3162,1807,5532,1345,2
+Bwabwata East,2021,Giraffe,67,26,503,343,738,1345,2
+Bwabwata East,2021,Impala,1034,96,8683,4846,15556,1345,2
+Bwabwata East,2021,Kudu,155,40,1556,1087,2227,1345,2
+Bwabwata East,2021,Lechwe,182,26,456,184,1128,1345,2
+Bwabwata East,2021,Reedbuck,34,10,46,17,127,1345,2
+Bwabwata East,2021,Roan,15,8,131,53,323,1345,2
+Bwabwata East,2021,Sable,78,26,1370,879,2135,1345,2
+Bwabwata East,2021,Steenbok,38,29,485,330,713,1345,2
+Bwabwata East,2021,Tsessebe,53,17,343,215,546,1345,2
+Bwabwata East,2021,Warthog,45,20,267,169,423,1345,2
+Bwabwata East,2021,Wildebeest,59,10,293,155,555,1345,2
+Bwabwata East,2022,Buffalo,308,14,1777,860,3669,1345,2
+Bwabwata East,2022,Burchell's Zebra,261,31,2588,1836,3650,1345,2
+Bwabwata East,2022,Duiker,66,62,1447,1180,1776,1345,2
+Bwabwata East,2022,Elephant,483,48,2793,1889,4130,1345,2
+Bwabwata East,2022,Giraffe,100,27,549,383,787,1345,2
+Bwabwata East,2022,Impala,756,76,10487,5827,18873,1345,2
+Bwabwata East,2022,Kudu,81,24,1144,782,1674,1345,2
+Bwabwata East,2022,Lechwe,301,29,558,245,1268,1345,2
+Bwabwata East,2022,Reedbuck,13,6,52,20,139,1345,2
+Bwabwata East,2022,Roan,18,9,91,43,193,1345,2
+Bwabwata East,2022,Sable,68,21,826,540,1262,1345,2
+Bwabwata East,2022,Steenbok,19,17,659,446,974,1345,2
+Bwabwata East,2022,Tsessebe,58,15,313,195,502,1345,2
+Bwabwata East,2022,Warthog,31,12,348,205,593,1345,2
+Bwabwata East,2022,Wildebeest,86,12,296,176,499,1345,2
+Bwabwata East,2023,Buffalo,770,24,4219,1716,10375,1345,2
+Bwabwata East,2023,Burchell's Zebra,658,64,3909,2498,6117,1345,2
+Bwabwata East,2023,Duiker,78,74,1464,1115,1922,1345,2
+Bwabwata East,2023,Elephant,1052,87,7222,4863,10724,1345,2
+Bwabwata East,2023,Giraffe,72,23,515,290,913,1345,2
+Bwabwata East,2023,Impala,561,81,4912,2260,10676,1345,2
+Bwabwata East,2023,Kudu,157,48,1454,926,2285,1345,2
+Bwabwata East,2023,Lechwe,237,19,666,198,2243,1345,2
+Bwabwata East,2023,Reedbuck,13,6,93,33,262,1345,2
+Bwabwata East,2023,Roan,83,20,380,167,862,1345,2
+Bwabwata East,2023,Sable,193,38,1194,634,2248,1345,2
+Bwabwata East,2023,Steenbok,24,18,483,276,846,1345,2
+Bwabwata East,2023,Tsessebe,30,11,128,58,280,1345,2
+Bwabwata East,2023,Warthog,26,14,285,157,518,1345,2
+Bwabwata East,2023,Wildebeest,113,9,334,131,853,1345,2
+Bwabwata West,2010,Buffalo,518,20,148,75,293,630,2
+Bwabwata West,2010,Duiker,73,66,496,383,643,630,2
+Bwabwata West,2010,Elephant,641,64,2020,1460,2795,630,2
+Bwabwata West,2010,Impala,132,15,127,61,263,630,2
+Bwabwata West,2010,Kudu,289,63,1055,786,1415,630,2
+Bwabwata West,2010,Lechwe,37,4,47,13,172,630,2
+Bwabwata West,2010,Reedbuck,28,7,85,7,1006,630,2
+Bwabwata West,2010,Roan,52,10,193,103,360,630,2
+Bwabwata West,2010,Sable,164,26,378,240,595,630,2
+Bwabwata West,2010,Steenbok,22,19,378,240,595,630,2
+Bwabwata West,2010,Warthog,52,24,149,94,236,630,2
+Bwabwata West,2011,Buffalo,1424,25,2358,1095,5077,630,2
+Bwabwata West,2011,Duiker,62,57,659,534,814,630,2
+Bwabwata West,2011,Elephant,856,74,2912,2251,3768,630,2
+Bwabwata West,2011,Impala,91,14,781,321,1899,630,2
+Bwabwata West,2011,Kudu,226,52,2088,1343,3249,630,2
+Bwabwata West,2011,Reedbuck,1,1,25,7,96,630,2
+Bwabwata West,2011,Roan,14,3,212,118,379,630,2
+Bwabwata West,2011,Sable,238,22,700,447,1096,630,2
+Bwabwata West,2011,Steenbok,12,11,150,99,226,630,2
+Bwabwata West,2011,Warthog,69,28,396,229,687,630,2
+Bwabwata West,2012,Buffalo,3725,34,1200,460,3128,630,2
+Bwabwata West,2012,Duiker,78,69,752,614,921,630,2
+Bwabwata West,2012,Elephant,1782,95,3198,2452,4171,630,2
+Bwabwata West,2012,Impala,188,16,986,436,2232,630,2
+Bwabwata West,2012,Kudu,320,69,1680,1084,2602,630,2
+Bwabwata West,2012,Roan,101,24,180,103,315,630,2
+Bwabwata West,2012,Sable,166,34,608,394,938,630,2
+Bwabwata West,2012,Steenbok,4,4,103,63,168,630,2
+Bwabwata West,2012,Warthog,77,28,437,267,713,630,2
+Bwabwata West,2013,Buffalo,892,54,2797,1383,5657,630,2
+Bwabwata West,2013,Burchell's Zebra,7,1,0,0,0,630,2
+Bwabwata West,2013,Duiker,70,68,614,510,739,630,2
+Bwabwata West,2013,Elephant,1912,123,4027,3218,5040,630,2
+Bwabwata West,2013,Impala,90,17,1491,664,3349,630,2
+Bwabwata West,2013,Kudu,223,64,1584,983,2551,630,2
+Bwabwata West,2013,Lechwe,18,1,0,0,0,630,2
+Bwabwata West,2013,Reedbuck,5,2,0,0,0,630,2
+Bwabwata West,2013,Roan,102,27,254,163,379,630,2
+Bwabwata West,2013,Sable,313,55,1060,720,1599,630,2
+Bwabwata West,2013,Steenbok,6,6,72,38,136,630,2
+Bwabwata West,2013,Tsessebe,2,1,0,0,0,630,2
+Bwabwata West,2013,Warthog,72,24,451,264,769,630,2
+Bwabwata West,2014,Buffalo,953,33,3502,1853,6619,630,2
+Bwabwata West,2014,Burchell's Zebra,19,3,0,0,0,630,2
+Bwabwata West,2014,Duiker,59,55,492,408,595,630,2
+Bwabwata West,2014,Elephant,1736,102,4050,3219,5095,630,2
+Bwabwata West,2014,Giraffe,1,1,0,0,0,630,2
+Bwabwata West,2014,Impala,71,13,1069,493,2319,630,2
+Bwabwata West,2014,Kudu,212,46,1468,898,2400,630,2
+Bwabwata West,2014,Lechwe,30,4,32,10,103,630,2
+Bwabwata West,2014,Reedbuck,12,2,0,0,0,630,2
+Bwabwata West,2014,Roan,24,6,178,115,278,630,2
+Bwabwata West,2014,Sable,230,43,1003,717,1405,630,2
+Bwabwata West,2014,Steenbok,5,5,49,26,93,630,2
+Bwabwata West,2014,Warthog,126,40,748,471,1186,630,2
+Bwabwata West,2015,Buffalo,1837,33,3360,1710,6570,630,2
+Bwabwata West,2015,Burchell's Zebra,8,1,,,,630,2
+Bwabwata West,2015,Duiker,82,77,590,480,720,630,2
+Bwabwata West,2015,Elephant,1405,101,2565,2050,3210,630,2
+Bwabwata West,2015,Impala,114,14,1220,540,2740,630,2
+Bwabwata West,2015,Kudu,267,52,1760,1090,2850,630,2
+Bwabwata West,2015,Lechwe,118,8,80,20,265,630,2
+Bwabwata West,2015,Reedbuck,5,1,,,,630,2
+Bwabwata West,2015,Roan,93,23,200,120,320,630,2
+Bwabwata West,2015,Sable,318,47,1220,880,1680,630,2
+Bwabwata West,2015,Steenbok,15,13,60,30,110,630,2
+Bwabwata West,2015,Warthog,157,51,670,340,1130,630,2
+Bwabwata West,2016,Buffalo,2149,42,2521,1170,5440,630,2
+Bwabwata West,2016,Duiker,86,80,656,530,815,630,2
+Bwabwata West,2016,Elephant,1749,106,3077,2410,3930,630,2
+Bwabwata West,2016,Impala,168,21,859,335,2200,630,2
+Bwabwata West,2016,Kudu,305,54,1528,1050,2210,630,2
+Bwabwata West,2016,Lechwe,153,17,111,20,580,630,2
+Bwabwata West,2016,Roan,71,16,171,100,300,630,2
+Bwabwata West,2016,Sable,425,58,1210,880,1660,630,2
+Bwabwata West,2016,Steenbok,5,5,55,30,100,630,2
+Bwabwata West,2016,Warthog,134,48,659,400,1100,630,2
+Bwabwata West,2017,Buffalo,856,39,2300,1086,4869,630,2
+Bwabwata West,2017,Duiker,49,45,857,686,1072,630,2
+Bwabwata West,2017,Elephant,1021,58,2605,2038,3330,630,2
+Bwabwata West,2017,Impala,176,25,1216,481,3075,630,2
+Bwabwata West,2017,Kudu,358,74,1766,1112,2806,630,2
+Bwabwata West,2017,Lechwe,72,8,109,38,317,630,2
+Bwabwata West,2017,Roan,16,4,168,96,293,630,2
+Bwabwata West,2017,Sable,185,39,1207,865,1686,630,2
+Bwabwata West,2017,Steenbok,8,6,63,35,115,630,2
+Bwabwata West,2017,Warthog,142,52,609,349,1062,630,2
+Bwabwata West,2019,Buffalo,1604,42,2569,1456,4534,630,2
+Bwabwata West,2019,Burchell's Zebra,98,14,117,57,240,630,2
+Bwabwata West,2019,Duiker,90,80,854,686,1063,630,2
+Bwabwata West,2019,Elephant,2367,96,3185,2423,4186,630,2
+Bwabwata West,2019,Impala,216,23,1488,614,3603,630,2
+Bwabwata West,2019,Kudu,246,43,1693,1075,2666,630,2
+Bwabwata West,2019,Lechwe,156,19,190,64,564,630,2
+Bwabwata West,2019,Roan,173,31,204,122,341,630,2
+Bwabwata West,2019,Sable,379,58,936,684,1282,630,2
+Bwabwata West,2019,Steenbok,3,3,68,37,124,630,2
+Bwabwata West,2019,Warthog,190,58,438,249,771,630,2
+Bwabwata West,2020,Buffalo,1592,40,2973,1177,4975,630,2
+Bwabwata West,2020,Burchell's Zebra,32,6,159,72,352,630,2
+Bwabwata West,2020,Duiker,67,62,798,627,1015,630,2
+Bwabwata West,2020,Elephant,1268,97,3911,2892,5289,630,2
+Bwabwata West,2020,Impala,279,20,1437,672,3070,630,2
+Bwabwata West,2020,Kudu,212,39,1670,1016,2745,630,2
+Bwabwata West,2020,Lechwe,293,13,428,161,1143,630,2
+Bwabwata West,2020,Roan,43,14,180,107,302,630,2
+Bwabwata West,2020,Sable,183,46,876,619,1240,630,2
+Bwabwata West,2020,Steenbok,9,8,85,48,151,630,2
+Bwabwata West,2020,Warthog,111,48,385,214,692,630,2
+Bwabwata West,2022,Buffalo,429,22,2230,1292,3851,630,2
+Bwabwata West,2022,Burchell's Zebra,25,4,223,115,435,630,2
+Bwabwata West,2022,Duiker,51,46,899,687,1177,630,2
+Bwabwata West,2022,Elephant,1085,73,5857,4223,8122,630,2
+Bwabwata West,2022,Giraffe,,,0,0,0,630,2
+Bwabwata West,2022,Impala,123,17,2550,1180,5509,630,2
+Bwabwata West,2022,Kudu,204,43,1413,1004,1989,630,2
+Bwabwata West,2022,Lechwe,220,13,460,185,1147,630,2
+Bwabwata West,2022,Roan,62,20,202,129,316,630,2
+Bwabwata West,2022,Sable,191,34,628,452,871,630,2
+Bwabwata West,2022,Steenbok,15,11,108,68,172,630,2
+Bwabwata West,2022,Warthog,50,20,331,191,571,630,2
+Bwabwata West,2023,Buffalo,972,44,2921,1420,6011,630,2
+Bwabwata West,2023,Burchell's Zebra,109,15,488,219,1088,630,2
+Bwabwata West,2023,Duiker,111,97,1303,957,1774,630,2
+Bwabwata West,2023,Elephant,1062,85,4861,3365,7024,630,2
+Bwabwata West,2023,Giraffe,,,0,0,0,630,2
+Bwabwata West,2023,Impala,362,31,2658,853,8278,630,2
+Bwabwata West,2023,Kudu,220,56,2084,915,4747,630,2
+Bwabwata West,2023,Lechwe,334,30,905,247,3309,630,2
+Bwabwata West,2023,Roan,180,29,470,199,1108,630,2
+Bwabwata West,2023,Sable,270,60,1277,897,2113,630,2
+Bwabwata West,2023,Steenbok,32,28,679,436,1058,630,2
+Bwabwata West,2023,Warthog,55,26,409,186,899,630,2
+Mahango,2010,Buffalo,37,2,14,5,43,245,2
+Mahango,2010,Burchell's Zebra,73,10,141,73,272,245,2
+Mahango,2010,Duiker,33,29,96,61,153,245,2
+Mahango,2010,Elephant,19,9,55,25,122,245,2
+Mahango,2010,Giraffe,12,5,34,17,67,245,2
+Mahango,2010,Impala,228,40,207,117,366,245,2
+Mahango,2010,Kudu,247,47,397,281,561,245,2
+Mahango,2010,Lechwe,12,2,91,24,336,245,2
+Mahango,2010,Reedbuck,11,5,42,17,105,245,2
+Mahango,2010,Roan,58,15,77,45,131,245,2
+Mahango,2010,Sable,51,9,101,44,233,245,2
+Mahango,2010,Steenbok,13,12,59,33,106,245,2
+Mahango,2010,Tsessebe,1,1,58,26,128,245,2
+Mahango,2010,Warthog,49,17,64,39,104,245,2
+Mahango,2010,Wildebeest,28,6,11,4,31,245,2
+Mahango,2011,Buffalo,13,4,19,7,53,245,2
+Mahango,2011,Burchell's Zebra,128,14,384,216,683,245,2
+Mahango,2011,Duiker,36,31,166,114,240,245,2
+Mahango,2011,Elephant,197,22,238,93,609,245,2
+Mahango,2011,Giraffe,33,15,66,40,109,245,2
+Mahango,2011,Impala,382,31,1159,594,2260,245,2
+Mahango,2011,Kudu,194,43,637,470,862,245,2
+Mahango,2011,Reedbuck,11,3,16,5,50,245,2
+Mahango,2011,Roan,22,5,147,86,252,245,2
+Mahango,2011,Sable,57,12,199,97,409,245,2
+Mahango,2011,Steenbok,1,1,56,30,102,245,2
+Mahango,2011,Warthog,33,13,181,107,304,245,2
+Mahango,2011,Wildebeest,12,4,29,11,77,245,2
+Mahango,2012,Buffalo,11,5,14,5,40,245,2
+Mahango,2012,Burchell's Zebra,73,10,257,144,456,245,2
+Mahango,2012,Duiker,42,38,275,190,400,245,2
+Mahango,2012,Elephant,128,21,298,117,762,245,2
+Mahango,2012,Giraffe,12,6,59,34,103,245,2
+Mahango,2012,Impala,306,28,1020,554,1880,245,2
+Mahango,2012,Kudu,312,69,987,724,1346,245,2
+Mahango,2012,Lechwe,54,12,44,16,120,245,2
+Mahango,2012,Roan,74,15,175,94,324,245,2
+Mahango,2012,Sable,84,9,209,112,390,245,2
+Mahango,2012,Steenbok,17,16,88,50,153,245,2
+Mahango,2012,Tsessebe,42,8,51,20,137,245,2
+Mahango,2012,Warthog,47,17,121,72,202,245,2
+Mahango,2012,Wildebeest,4,2,32,13,77,245,2
+Mahango,2013,Buffalo,33,10,46,12,173,245,2
+Mahango,2013,Burchell's Zebra,168,15,364,203,651,245,2
+Mahango,2013,Duiker,85,79,473,361,619,245,2
+Mahango,2013,Elephant,53,21,376,221,640,245,2
+Mahango,2013,Giraffe,16,6,81,45,146,245,2
+Mahango,2013,Impala,411,40,1661,778,3542,245,2
+Mahango,2013,Kudu,337,87,1072,820,1401,245,2
+Mahango,2013,Lechwe,110,5,129,38,438,245,2
+Mahango,2013,Reedbuck,71,12,81,26,255,245,2
+Mahango,2013,Roan,58,15,218,131,361,245,2
+Mahango,2013,Sable,70,9,279,145,539,245,2
+Mahango,2013,Steenbok,3,3,71,36,142,245,2
+Mahango,2013,Tsessebe,54,13,110,51,237,245,2
+Mahango,2013,Warthog,44,15,254,131,493,245,2
+Mahango,2013,Wildebeest,92,4,93,35,249,245,2
+Mahango,2014,Buffalo,35,6,61,21,178,245,2
+Mahango,2014,Burchell's Zebra,143,17,349,196,621,245,2
+Mahango,2014,Duiker,16,16,428,326,562,245,2
+Mahango,2014,Elephant,36,12,369,204,666,245,2
+Mahango,2014,Giraffe,17,5,39,19,80,245,2
+Mahango,2014,Impala,459,47,1888,937,3807,245,2
+Mahango,2014,Kudu,206,51,1699,1289,2239,245,2
+Mahango,2014,Lechwe,182,4,145,45,469,245,2
+Mahango,2014,Reedbuck,45,6,115,39,338,245,2
+Mahango,2014,Roan,71,17,296,179,491,245,2
+Mahango,2014,Sable,46,8,289,144,579,245,2
+Mahango,2014,Steenbok,2,2,54,25,117,245,2
+Mahango,2014,Tsessebe,22,4,310,148,651,245,2
+Mahango,2014,Warthog,41,20,250,128,486,245,2
+Mahango,2014,Wildebeest,20,1,0,0,0,245,2
+Mahango,2015,Buffalo,25,7,70,25,180,245,2
+Mahango,2015,Burchell's Zebra,107,15,380,230,630,245,2
+Mahango,2015,Duiker,49,47,350,270,450,245,2
+Mahango,2015,Elephant,74,15,115,65,200,245,2
+Mahango,2015,Giraffe,5,3,22,12,43,245,2
+Mahango,2015,Impala,663,52,2130,1100,4150,245,2
+Mahango,2015,Kudu,355,75,1830,1420,2350,245,2
+Mahango,2015,Lechwe,245,10,180,60,545,245,2
+Mahango,2015,Reedbuck,29,7,130,45,380,245,2
+Mahango,2015,Roan,51,15,280,170,480,245,2
+Mahango,2015,Sable,41,12,155,80,300,245,2
+Mahango,2015,Steenbok,8,7,58,20,160,245,2
+Mahango,2015,Tsessebe,42,8,170,80,380,245,2
+Mahango,2015,Warthog,34,13,250,120,510,245,2
+Mahango,2015,Wildebeest,29,2,,,,245,2
+Mahango,2016,Buffalo,356,9,108,20,485,245,2
+Mahango,2016,Burchell's Zebra,85,11,308,190,500,245,2
+Mahango,2016,Duiker,42,38,160,120,220,245,2
+Mahango,2016,Elephant,58,15,115,65,200,245,2
+Mahango,2016,Giraffe,27,9,40,10,100,245,2
+Mahango,2016,Impala,481,55,1592,870,2900,245,2
+Mahango,2016,Kudu,281,72,1341,1045,1720,245,2
+Mahango,2016,Lechwe,264,13,175,30,970,245,2
+Mahango,2016,Reedbuck,20,4,47,10,230,245,2
+Mahango,2016,Roan,60,16,239,140,410,245,2
+Mahango,2016,Sable,13,3,92,50,180,245,2
+Mahango,2016,Steenbok,10,8,43,20,100,245,2
+Mahango,2016,Tsessebe,51,13,121,60,230,245,2
+Mahango,2016,Warthog,45,15,126,70,230,245,2
+Mahango,2017,Buffalo,844,10,247,57,1083,245,2
+Mahango,2017,Burchell's Zebra,84,15,215,124,372,245,2
+Mahango,2017,Duiker,19,19,251,188,335,245,2
+Mahango,2017,Elephant,172,18,124,75,206,245,2
+Mahango,2017,Giraffe,27,12,37,23,58,245,2
+Mahango,2017,Impala,683,66,1519,834,2766,245,2
+Mahango,2017,Kudu,291,67,1339,1055,1700,245,2
+Mahango,2017,Lechwe,195,23,179,60,531,245,2
+Mahango,2017,Reedbuck,24,8,61,10,228,245,2
+Mahango,2017,Roan,78,16,237,146,387,245,2
+Mahango,2017,Sable,64,6,106,39,292,245,2
+Mahango,2017,Steenbok,5,5,50,22,109,245,2
+Mahango,2017,Tsessebe,75,16,173,101,295,245,2
+Mahango,2017,Warthog,52,25,128,67,245,245,2
+Mahango,2019,Buffalo,90,10,267,66,1088,245,2
+Mahango,2019,Burchell's Zebra,100,15,160,96,268,245,2
+Mahango,2019,Duiker,43,40,171,128,230,245,2
+Mahango,2019,Elephant,182,9,194,91,414,245,2
+Mahango,2019,Giraffe,39,13,51,32,81,245,2
+Mahango,2019,Impala,519,65,1228,669,2256,245,2
+Mahango,2019,Kudu,176,47,796,624,1016,245,2
+Mahango,2019,Lechwe,501,21,331,104,1050,245,2
+Mahango,2019,Reedbuck,26,6,34,7,173,245,2
+Mahango,2019,Roan,41,9,126,78,201,245,2
+Mahango,2019,Sable,32,9,44,15,128,245,2
+Mahango,2019,Steenbok,3,3,33,19,59,245,2
+Mahango,2019,Tsessebe,21,3,142,81,250,245,2
+Mahango,2019,Warthog,69,23,139,61,317,245,2
+Mahango,2019,Wildebeest,50,7,76,23,258,245,2
+Mahango,2020,Buffalo,127,7,248,54,1141,245,2
+Mahango,2020,Burchell's Zebra,166,7,137,75,252,245,2
+Mahango,2020,Duiker,22,20,96,71,130,245,2
+Mahango,2020,Elephant,155,14,319,157,649,245,2
+Mahango,2020,Giraffe,83,21,73,44,123,245,2
+Mahango,2020,Impala,589,51,1420,761,2652,245,2
+Mahango,2020,Kudu,216,61,744,561,986,245,2
+Mahango,2020,Lechwe,220,9,308,93,1022,245,2
+Mahango,2020,Reedbuck,28,5,36,16,82,245,2
+Mahango,2020,Roan,31,9,106,63,180,245,2
+Mahango,2020,Sable,9,3,43,14,126,245,2
+Mahango,2020,Steenbok,7,7,72,35,145,245,2
+Mahango,2020,Tsessebe,51,10,123,59,254,245,2
+Mahango,2020,Warthog,88,30,151,66,345,245,2
+Mahango,2020,Wildebeest,9,2,26,11,62,245,2
+Mahango,2021,Buffalo,87,5,127,47,346,245,2
+Mahango,2021,Burchell's Zebra,184,18,195,103,171,245,2
+Mahango,2021,Duiker,19,18,137,95,198,245,2
+Mahango,2021,Elephant,109,15,605,157,2323,245,2
+Mahango,2021,Giraffe,66,15,100,63,159,245,2
+Mahango,2021,Impala,493,48,1555,854,2833,245,2
+Mahango,2021,Kudu,225,39,715,501,1022,245,2
+Mahango,2021,Lechwe,344,10,273,88,849,245,2
+Mahango,2021,Roan,16,10,112,62,205,245,2
+Mahango,2021,Sable,10,3,21,8,52,245,2
+Mahango,2021,Tsessebe,24,6,50,20,122,245,2
+Mahango,2021,Warthog,49,20,143,63,321,245,2
+Mahango,2021,Wildebeest,13,2,19,9,44,245,2
+Mahango,2022,Buffalo,203,6,137,49,386,245,2
+Mahango,2022,Burchell's Zebra,138,20,258,140,473,245,2
+Mahango,2022,Duiker,26,23,198,134,291,245,2
+Mahango,2022,Elephant,85,2,531,261,1078,245,2
+Mahango,2022,Giraffe,27,10,164,100,269,245,2
+Mahango,2022,Impala,339,43,1689,897,3181,245,2
+Mahango,2022,Kudu,174,50,921,655,1296,245,2
+Mahango,2022,Lechwe,372,11,258,80,838,245,2
+Mahango,2022,Roan,46,9,157,80,309,245,2
+Mahango,2022,Sable,34,5,20,10,39,245,2
+Mahango,2022,Steenbok,8,8,96,54,171,245,2
+Mahango,2022,Tsessebe,24,4,51,21,126,245,2
+Mahango,2022,Warthog,138,40,244,105,565,245,2
+Mahango,2022,Wildebeest,26,2,24,11,52,245,2
+Mahango,2023,Buffalo,171,8,75,16,358,245,2
+Mahango,2023,Burchell's Zebra,145,21,355,189,667,245,2
+Mahango,2023,Duiker,40,35,351,228,540,245,2
+Mahango,2023,Elephant,209,12,878,320,2411,245,2
+Mahango,2023,Giraffe,26,12,108,48,246,245,2
+Mahango,2023,Impala,606,68,1434,591,3483,245,2
+Mahango,2023,Kudu,132,37,566,296,683,245,2
+Mahango,2023,Lechwe,229,25,132,25,705,245,2
+Mahango,2023,Roan,7,5,72,5,94,245,2
+Mahango,2023,Sable,1,1,4,1,21,245,2
+Mahango,2023,Steenbok,8,7,106,37,300,245,2
+Mahango,2023,Tsessebe,6,3,16,4,75,245,2
+Mahango,2023,Warthog,36,17,106,38,295,245,2
+Mahango,2023,Wildebeest,,,0,0,0,245,2
+Mudumu,2010,Burchell's Zebra,153,14,793,453,1386,716,2
+Mudumu,2010,Duiker,21,17,338,205,555,716,2
+Mudumu,2010,Elephant,365,34,3359,1653,6824,716,2
+Mudumu,2010,Kudu,43,9,66,18,249,716,2
+Mudumu,2010,Roan,49,15,235,99,557,716,2
+Mudumu,2010,Steenbok,3,3,91,39,213,716,2
+Mudumu,2010,Warthog,51,24,482,248,935,716,2
+Mudumu,2010,Wildebeest,53,4,578,230,1454,716,2
+Mudumu,2011,Burchell's Zebra,145,18,1706,1064,2736,716,2
+Mudumu,2011,Duiker,14,14,462,276,774,716,2
+Mudumu,2011,Elephant,447,34,4387,2817,6832,716,2
+Mudumu,2011,Impala,293,12,2422,1216,4824,716,2
+Mudumu,2011,Kudu,42,11,490,262,914,716,2
+Mudumu,2011,Roan,57,9,527,258,1077,716,2
+Mudumu,2011,Steenbok,3,3,174,81,376,716,2
+Mudumu,2011,Warthog,32,14,1661,1046,2638,716,2
+Mudumu,2011,Wildebeest,224,9,2144,623,7381,716,2
+Mudumu,2012,Burchell's Zebra,190,21,1416,848,2366,716,2
+Mudumu,2012,Duiker,29,25,562,356,887,716,2
+Mudumu,2012,Elephant,319,32,3339,2343,4759,716,2
+Mudumu,2012,Giraffe,18,6,105,52,213,716,2
+Mudumu,2012,Impala,244,24,5272,2727,10191,716,2
+Mudumu,2012,Kudu,43,9,685,384,1220,716,2
+Mudumu,2012,Roan,144,17,965,564,1649,716,2
+Mudumu,2012,Sable,53,9,245,71,848,716,2
+Mudumu,2012,Steenbok,10,9,192,94,395,716,2
+Mudumu,2012,Warthog,97,37,1658,1169,2352,716,2
+Mudumu,2012,Wildebeest,44,9,436,127,1494,716,2
+Mudumu,2013,Buffalo,75,1,0,0,0,716,2
+Mudumu,2013,Burchell's Zebra,314,18,1905,1113,3261,716,2
+Mudumu,2013,Duiker,37,35,761,520,1114,716,2
+Mudumu,2013,Elephant,329,34,3080,2123,4466,716,2
+Mudumu,2013,Giraffe,6,2,96,40,234,716,2
+Mudumu,2013,Impala,465,25,5997,2881,12479,716,2
+Mudumu,2013,Kudu,14,4,495,251,977,716,2
+Mudumu,2013,Roan,47,16,659,381,1142,716,2
+Mudumu,2013,Sable,43,7,262,113,610,716,2
+Mudumu,2013,Steenbok,12,12,253,137,467,716,2
+Mudumu,2013,Tsessebe,1,1,0,0,0,716,2
+Mudumu,2013,Warthog,51,20,1049,741,1485,716,2
+Mudumu,2013,Wildebeest,95,6,494,144,1691,716,2
+Mudumu,2014,Buffalo,93,2,0,0,0,716,2
+Mudumu,2014,Burchell's Zebra,216,18,2196,1362,3541,716,2
+Mudumu,2014,Duiker,29,24,861,605,1225,716,2
+Mudumu,2014,Elephant,441,36,3229,2090,4989,716,2
+Mudumu,2014,Giraffe,15,7,0,0,0,716,2
+Mudumu,2014,Impala,335,25,4904,2253,10672,716,2
+Mudumu,2014,Kudu,68,16,599,314,1141,716,2
+Mudumu,2014,Lechwe,24,2,0,0,0,716,2
+Mudumu,2014,Reedbuck,2,2,0,0,0,716,2
+Mudumu,2014,Roan,110,20,759,466,1239,716,2
+Mudumu,2014,Steenbok,13,10,270,156,468,716,2
+Mudumu,2014,Warthog,72,27,1582,1171,2135,716,2
+Mudumu,2014,Wildebeest,149,10,546,229,1306,716,2
+Mudumu,2015,Buffalo,1,1,,,,716,2
+Mudumu,2015,Burchell's Zebra,104,16,2495,1480,4200,716,2
+Mudumu,2015,Duiker,28,26,900,630,1290,716,2
+Mudumu,2015,Elephant,951,43,4650,2830,7640,716,2
+Mudumu,2015,Giraffe,8,4,,,,716,2
+Mudumu,2015,Impala,580,18,7300,3270,16300,716,2
+Mudumu,2015,Kudu,9,3,340,160,730,716,2
+Mudumu,2015,Lechwe,11,1,,,,716,2
+Mudumu,2015,Reedbuck,13,5,,,,716,2
+Mudumu,2015,Roan,30,9,460,260,820,716,2
+Mudumu,2015,Sable,114,3,0,0,0,716,2
+Mudumu,2015,Steenbok,10,9,270,170,440,716,2
+Mudumu,2015,Warthog,63,21,1500,1060,2130,716,2
+Mudumu,2015,Wildebeest,29,7,760,320,1790,716,2
+Mudumu,2016,Burchell's Zebra,64,7,1279,790,2070,716,2
+Mudumu,2016,Duiker,33,27,1109,780,1580,716,2
+Mudumu,2016,Elephant,257,22,4574,2710,7720,716,2
+Mudumu,2016,Giraffe,28,8,95,40,245,716,2
+Mudumu,2016,Impala,241,23,6015,2950,12270,716,2
+Mudumu,2016,Kudu,47,9,517,270,985,716,2
+Mudumu,2016,Roan,43,7,653,345,1240,716,2
+Mudumu,2016,Sable,12,6,58,20,210,716,2
+Mudumu,2016,Steenbok,3,3,300,120,765,716,2
+Mudumu,2016,Warthog,19,7,1302,890,1900,716,2
+Mudumu,2016,Wildebeest,108,6,679,300,1530,716,2
+Mudumu,2017,Burchell's Zebra,128,14,1075,705,1637,716,2
+Mudumu,2017,Duiker,20,17,927,626,1371,716,2
+Mudumu,2017,Elephant,368,19,4689,2590,8492,716,2
+Mudumu,2017,Giraffe,6,2,68,23,199,716,2
+Mudumu,2017,Impala,267,24,5494,2624,11499,716,2
+Mudumu,2017,Kudu,15,4,290,101,815,716,2
+Mudumu,2017,Roan,39,15,374,187,749,716,2
+Mudumu,2017,Steenbok,10,8,317,114,911,716,2
+Mudumu,2017,Warthog,23,10,840,539,1308,716,2
+Mudumu,2017,Wildebeest,26,5,365,180,740,716,2
+Mudumu,2019,Burchell's Zebra,180,19,180,,,716,2
+Mudumu,2019,Duiker,35,28,1200,577,2496,716,2
+Mudumu,2019,Elephant,532,55,4598,2837,7452,716,2
+Mudumu,2019,Giraffe,27,8,119,50,286,716,2
+Mudumu,2019,Impala,172,21,2502,764,8189,716,2
+Mudumu,2019,Kudu,29,9,354,138,908,716,2
+Mudumu,2019,Reedbuck,3,1,20,3,119,716,2
+Mudumu,2019,Roan,58,20,608,241,1533,716,2
+Mudumu,2019,Steenbok,8,4,119,34,413,716,2
+Mudumu,2019,Warthog,75,16,894,379,2111,716,2
+Mudumu,2019,Wildebeest,7,3,56,13,242,716,2
+Mudumu,2020,Duiker,40,35,1371,791,2376,716,2
+Mudumu,2020,Elephant,904,36,5235,2990,9164,716,2
+Mudumu,2020,Giraffe,26,10,155,75,320,716,2
+Mudumu,2020,Impala,259,19,3676,820,16481,716,2
+Mudumu,2020,Kudu,59,19,616,287,1322,716,2
+Mudumu,2020,Roan,85,23,401,184,876,716,2
+Mudumu,2020,Steenbok,16,15,243,79,751,716,2
+Mudumu,2020,Warthog,25,12,594,325,1087,716,2
+Mudumu,2020,Wildebeest,80,5,520,92,2950,716,2
+Mudumu,2021,Burchell's Zebra,484,50,3904,1900,8020,716,2
+Mudumu,2021,Duiker,51,49,2055,1054,4005,716,2
+Mudumu,2021,Elephant,484,22,3044,1550,5981,716,2
+Mudumu,2021,Giraffe,30,9,145,80,262,716,2
+Mudumu,2021,Impala,315,31,4702,1655,13354,716,2
+Mudumu,2021,Kudu,36,9,306,114,822,716,2
+Mudumu,2021,Roan,90,28,591,285,1228,716,2
+Mudumu,2021,Sable,13,9,517,148,1799,716,2
+Mudumu,2021,Steenbok,13,11,115,27,489,716,2
+Mudumu,2021,Warthog,33,17,847,405,1770,716,2
+Mudumu,2021,Wildebeest,156,13,1171,332,4125,716,2
+Mudumu,2022,Burchell's Zebra,465,47,3553,2024,6237,716,2
+Mudumu,2022,Duiker,32,30,1106,661,1851,716,2
+Mudumu,2022,Elephant,407,15,2686,1302,5541,716,2
+Mudumu,2022,Giraffe,38,12,216,110,424,716,2
+Mudumu,2022,Impala,128,12,1779,399,7921,716,2
+Mudumu,2022,Kudu,23,5,278,84,915,716,2
+Mudumu,2022,Roan,43,13,184,78,438,716,2
+Mudumu,2022,Sable,37,5,359,115,1121,716,2
+Mudumu,2022,Steenbok,7,6,27,5,154,716,2
+Mudumu,2022,Warthog,17,7,262,87,790,716,2
+Mudumu,2022,Wildebeest,115,8,618,186,2050,716,2
+Mudumu,2023,Burchell's Zebra,247,31,1439,693,2989,716,2
+Mudumu,2023,Duiker,33,27,1203,675,2143,716,2
+Mudumu,2023,Elephant,496,53,4557,2279,9115,716,2
+Mudumu,2023,Giraffe,9,5,100,27,363,716,2
+Mudumu,2023,Impala,294,21,206,70,605,716,2
+Mudumu,2023,Kudu,37,8,266,63,1129,716,2
+Mudumu,2023,Roan,84,17,1036,358,2997,716,2
+Mudumu,2023,Sable,17,7,423,134,1341,716,2
+Mudumu,2023,Steenbok,6,6,123,47,323,716,2
+Mudumu,2023,Warthog,23,9,212,63,714,716,2
+Mudumu,2023,Wildebeest,34,6,256,35,1875,716,2
+Nkasa Rupara,2016,Elephant,136,20,1191,350,4030,338,2
+Nkasa Rupara,2016,Impala,860,35,16643,6150,43030,338,2
+Nkasa Rupara,2016,Warthog,225,56,7128,4280,11860,338,2
+Nkasa Rupara,2017,Elephant,11,3,836,268,2607,338,2
+Nkasa Rupara,2017,Impala,507,38,8771,3412,22547,338,2
+Nkasa Rupara,2017,Lechwe,8,6,160,51,499,338,2
+Nkasa Rupara,2017,Reedbuck,29,11,226,89,575,338,2
+Nkasa Rupara,2017,Warthog,210,65,3837,1598,9217,338,2
+Nkasa Rupara,2019,Buffalo,180,3,,,,338,2
+Nkasa Rupara,2019,Burchell's Zebra,55,8,55,,,338,2
+Nkasa Rupara,2019,Duiker,1,1,,,,338,2
+Nkasa Rupara,2019,Elephant,281,46,2151,827,5598,338,2
+Nkasa Rupara,2019,Impala,901,60,7437,2517,21980,338,2
+Nkasa Rupara,2019,Kudu,29,10,326,102,1043,338,2
+Nkasa Rupara,2019,Lechwe,86,15,288,73,1140,338,2
+Nkasa Rupara,2019,Reedbuck,22,11,221,77,638,338,2
+Nkasa Rupara,2019,Warthog,485,154,7085,2591,19373,338,2
+Nkasa Rupara,2020,Elephant,49,10,450,147,1376,338,2
+Nkasa Rupara,2020,Impala,800,87,7590,2251,25595,338,2
+Nkasa Rupara,2020,Kudu,24,7,284,89,903,338,2
+Nkasa Rupara,2020,Lechwe,366,20,1092,310,3847,338,2
+Nkasa Rupara,2020,Warthog,576,177,9366,3066,28611,338,2
+Nkasa Rupara,2021,Elephant,254,34,1756,538,5736,338,2
+Nkasa Rupara,2021,Impala,929,93,9122,2286,36402,338,2
+Nkasa Rupara,2021,Kudu,16,3,202,32,1266,338,2
+Nkasa Rupara,2021,Lechwe,251,33,1255,294,5367,338,2
+Nkasa Rupara,2021,Warthog,464,149,7906,2313,27029,338,2
+Nkasa Rupara,2023,Elephant,134,21,695,228,2113,338,2
+Nkasa Rupara,2023,Impala,1478,79,16174,5535,47260,338,2
+Nkasa Rupara,2023,Kudu,63,12,869,244,3093,338,2
+Nkasa Rupara,2023,Warthog,586,113,7350,2770,19561,338,2
+Salambala,2010,Duiker,3,2,127,58,279,930,2
+Salambala,2010,Impala,61,7,348,121,1003,930,2
+Salambala,2010,Warthog,49,20,285,145,560,930,2
+Salambala,2011,Duiker,7,5,165,83,329,930,2
+Salambala,2011,Impala,99,10,639,305,1339,930,2
+Salambala,2011,Kudu,19,6,235,101,546,930,2
+Salambala,2011,Warthog,35,13,525,281,980,930,2
+Salambala,2012,Impala,108,10,935,553,1583,930,2
+Salambala,2012,Kudu,32,6,152,63,368,930,2
+Salambala,2012,Warthog,50,21,573,381,862,930,2
+Salambala,2012,Wildebeest,73,4,420,138,1282,930,2
+Salambala,2013,Burchell's Zebra,2219,3,2229,659,7547,930,2
+Salambala,2013,Duiker,5,4,245,118,507,930,2
+Salambala,2013,Elephant,68,3,137,39,490,930,2
+Salambala,2013,Giraffe,3,2,0,0,0,930,2
+Salambala,2013,Impala,144,8,1130,666,1917,930,2
+Salambala,2013,Kudu,5,3,191,78,465,930,2
+Salambala,2013,Warthog,24,11,592,391,895,930,2
+Salambala,2013,Wildebeest,416,7,404,118,1388,930,2
+Salambala,2014,Burchell's Zebra,2501,8,2501,,,930,2
+Salambala,2014,Duiker,6,6,377,201,706,930,2
+Salambala,2014,Impala,78,8,1070,602,1902,930,2
+Salambala,2014,Kudu,19,2,170,59,485,930,2
+Salambala,2014,Warthog,42,16,609,397,932,930,2
+Salambala,2014,Wildebeest,283,9,754,290,1965,930,2
+Salambala,2015,Burchell's Zebra,916,8,1875,,,930,2
+Salambala,2015,Duiker,9,7,324,180,500,930,2
+Salambala,2015,Impala,103,10,1150,670,1980,930,2
+Salambala,2015,Kudu,38,6,133,45,390,930,2
+Salambala,2015,Warthog,54,15,742,530,1110,930,2
+Salambala,2015,Wildebeest,2,2,,,,930,2
+Salambala,2016,Burchell's Zebra,338,5,350,,,930,2
+Salambala,2016,Duiker,2,2,258,110,630,930,2
+Salambala,2016,Impala,173,13,212,1140,4310,930,2
+Salambala,2016,Kudu,28,5,243,95,640,930,2
+Salambala,2016,Warthog,37,11,999,620,1610,930,2
+Salambala,2017,Burchell's Zebra,1968,9,1970,,,930,2
+Salambala,2017,Duiker,1,1,191,72,557,930,2
+Salambala,2017,Impala,173,12,2063,1303,3264,930,2
+Salambala,2017,Kudu,10,2,173,57,547,930,2
+Salambala,2017,Warthog,65,15,1168,678,2011,930,2
+Salambala,2018,Burchell's Zebra,507,9,507,,,930,2
+Salambala,2018,Duiker,4,4,190,81,445,930,2
+Salambala,2018,Impala,307,17,3225,2110,4930,930,2
+Salambala,2018,Kudu,24,5,160,65,394,930,2
+Salambala,2018,Warthog,45,16,955,537,1698,930,2
+Salambala,2018,Wildebeest,55,2,513,153,1726,930,2
+Salambala,2019,Burchell's Zebra,165,4,165,,,930,2
+Salambala,2019,Duiker,3,3,129,45,371,930,2
+Salambala,2019,Impala,319,20,3826,2187,6696,930,2
+Salambala,2019,Kudu,2,2,76,23,256,930,2
+Salambala,2019,Warthog,66,11,637,319,1270,930,2
+Salambala,2019,Wildebeest,178,7,2243,971,5181,930,2
+Salambala,2020,Duiker,2,2,89,24,330,930,2
+Salambala,2020,Giraffe,2,1,28,5,156,930,2
+Salambala,2020,Impala,176,12,2457,1403,4302,930,2
+Salambala,2020,Kudu,13,3,187,63,559,930,2
+Salambala,2020,Warthog,18,6,343,112,962,930,2
+Salambala,2020,Wildebeest,132,3,661,195,2237,930,2
+Salambala,2021,Duiker,12,9,160,33,779,930,2
+Salambala,2021,Giraffe,10,3,111,36,347,930,2
+Salambala,2021,Impala,155,14,2358,1111,5005,930,2
+Salambala,2021,Kudu,14,5,257,71,933,930,2
+Salambala,2021,Warthog,3,2,113,35,366,930,2
+Salambala,2021,Wildebeest,137,3,1111,331,3727,930,2
+Salambala,2022,Duiker,,,0,0,0,930,2
+Salambala,2022,Giraffe,14,4,131,41,423,930,2
+Salambala,2022,Impala,61,9,929,416,2070,930,2
+Salambala,2022,Kudu,10,4,184,49,696,930,2
+Salambala,2022,Warthog,14,4,160,25,1036,930,2
+Salambala,2022,Wildebeest,44,5,1628,655,4050,930,2
+Salambala,2023,Duiker,4,3,98,25,390,930,2
+Salambala,2023,Giraffe,4,1,52,9,293,930,2
+Salambala,2023,Impala,53,8,600,255,1414,930,2
+Salambala,2023,Kudu,10,3,238,59,955,930,2
+Salambala,2023,Warthog,22,8,450,196,1035,930,2
+Salambala,2023,Wildebeest,8,2,607,169,2174,930,2
+Sikunga,2014,Duiker,1,1,0,0,0,287,2
+Sikunga,2014,Kudu,7,1,0,0,0,287,2
+Sikunga,2014,Wildebeest,51,1,0,0,0,287,2
+Sikunga,2019,Elephant,8,1,8,,,287,2
+Sikunga,2019,Impala,31,3,31,,,287,2
